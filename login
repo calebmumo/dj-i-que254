@@ -57,7 +57,7 @@
         <a class="navbar-brand w-auto responsible-link" href="https://www.spinlero.com">
             <img src="https://www.spinlero.com/new-tpl/imgs/logo.png" alt="SpinLero" class="" />
         </a>
-                    <a class="btn btn-primary btn-mobile d-block d-lg-none ml-auto mr-2 open-modal" data-target="#loginModal">
+                    <a class="btn btn-primary btn-mobile d-block d-lg-none ml-auto mr-2 open-modal" data-target="login">
                     <i class="fa fa-sign-in-alt mr-2"></i> Login
             </a>
             <a class="btn btn-primary btn-mobile d-block d-lg-none open-modal" data-target="#registerModal">
